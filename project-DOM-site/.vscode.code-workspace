@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../13-Банковское приложение/start/.vscode"
+		},
+		{
+			"path": "../../13-Банковское приложение/start"
+		},
+		{
+			"path": "../../16-Банковское приложение даты и время/start"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "start"
+	}
+}
